@@ -1,0 +1,33 @@
+{
+    "Team Home": [
+        "Shanghai SIPG FC"
+    ],
+    "Team Away": [
+        "Changchun Yatai"
+    ],
+    "Bookmakers": {
+        "key": "windcreek",
+        "markets": [
+            {
+                "outcomes": [
+                    {
+                        "name": "Changchun Yatai",
+                        "price": 8.75
+                    },
+                    {
+                        "name": "Shanghai SIPG FC",
+                        "price": 1.22
+                    },
+                    {
+                        "name": "Draw",
+                        "price": 6.0
+                    }
+                ]
+            }
+        ]
+    },
+    "Last_update_time": null,
+    "1": [],
+    "2": [],
+    "x": []
+}

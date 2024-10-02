@@ -1,0 +1,14 @@
+We will work with pandas library because its powerful for data manipulation and analysis but with csv we can
+work with libraries like csv, but we will keep pandas because we will use it for excel the same.
+
+We first import pandas
+# import pandas as pd
+
+Reading csv file (df is dataframe, dataframe is an 2 dimensional table , rows and columns)
+# df = pd.read_csv("csv_name.csv")
+
+If we have and delimiter like ';' we use
+# df = pd.read_csv("csv_name.csv", delimiter=';')
+
+Read first five rows from table
+# print(df.head())
